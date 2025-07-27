@@ -1,0 +1,43 @@
+﻿{
+  "metadata": {
+    "name": "挺进地牢物品提示 - 中文 - 测试批处理",
+    "url": "https://etg-xd.wikidot.com",
+    "version": "1.0.0"
+  },
+  "items": {
+    "magic_lamp": {
+      "name": "阿拉丁神灯",
+      "notes": "击中敌人三次会召唤一只妖怪对敌人使用升龙拳"
+    },
+    "winchester": {
+      "name": "温彻斯特霰弹枪",
+      "notes": "{$tips}"
+    },
+    "thompson": {
+      "name": "汤普森冲锋枪",
+      "notes": "你想访问的页面thompson不存在。"
+    },
+    "screecher": {
+      "name": "声波枪",
+      "notes": "发射带穿透效果的音波，小概率使敌人晕眩"
+    },
+    "sticky_crossbow": {
+      "name": "黏性十字弩",
+      "notes": "发射还会粘住敌人的箭，装弹时箭会爆炸"
+    }
+  },
+  "synergies": {
+    "#SWEETNESSANDLIGHT": {
+      "notes": "阿拉丁神灯每次发射 3 颗子弹，每颗子弹伤害为原来的 25%，召唤的幽灵伤害不变。"
+    },
+    "#SAWEDON": {
+      "notes": "锯枪子弹有电链连接"
+    },
+    "#SCREECHINGLASER": {
+      "notes": "声波枪每次射击发出三个圆椎体"
+    },
+    "#TRIPLESTICKY": {
+      "notes": "黏性十字弩每次发射 3 支箭，弹夹容量变成 6（原来是 5）。\n三重十字弩每第三支箭射中敌人会爆炸。"
+    }
+  }
+}

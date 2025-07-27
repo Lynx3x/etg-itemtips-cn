@@ -1,0 +1,21 @@
+{
+    // note metadata is optional.
+    "metadata": {
+        "name": "My Item Tips",
+        "url": "url to find updates",
+        "version": "1.0.0"
+    },
+    "items": {
+        // Key is the console name used in the mtg api console.
+        "prefix:item_name": {
+            "name": "Item Name", // item name is optional.
+            "notes": "A description of the item."
+        }
+    },
+    "synergies": {
+        // Key is the AdvancedSynergyEntry.NameKey of the synergy.
+        "Synergy Name": {
+            "notes": "A description of the synergy."
+        }
+    }
+}

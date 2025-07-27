@@ -1,0 +1,62 @@
+{
+  "winchester": {
+    "name": "温彻斯特霰弹枪",
+    "notes": "A basic shotgun that fires a spread of bullets."
+  },
+  "thompson": {
+    "name": "汤普森冲锋枪",
+    "notes": "An automatic gun that fires rapidly."
+  },
+  "ak47": {
+    "name": "AK-47",
+    "notes": "An automatic gun that fires rapidly."
+  },
+  "m1911": {
+    "name": "M1911",
+    "notes": "A basic gun slightly stronger than most starter weapons."
+  },
+  "void_marshal": {
+    "name": "虚空元帅",
+    "notes": "Fires fast-moving lasers. One of the guns wielded by the Beholster."
+  },
+  "smileys_revolver": {
+    "name": "笑脸左轮",
+    "notes": "Decreases shop prices while held.\nFire rate increased shortly after rolling."
+  },
+  "magnum": {
+    "name": "马格南手枪",
+    "notes": "A six round revolver that does good damage."
+  },
+  "trank_gun": {
+    "name": "M9",
+    "notes": "A semi-automatic gun of moderate power that, despite it's name does not tranquilize."
+  },
+  "machine_pistol": {
+    "name": "机枪",
+    "notes": "A weak but high rate of fire gun."
+  },
+  "regular_shotgun": {
+    "name": "常规霰弹枪",
+    "notes": "Fires a spread of bullets."
+  },
+  "makarov": {
+    "name": "马卡洛夫枪",
+    "notes": "A basic gun similar in power to starter weapons."
+  },
+  "vulcan_cannon": {
+    "name": "火神加农炮",
+    "notes": "A minigun with a very high rate of fire and large ammo capacity."
+  },
+  "rube_adyne_mk2": {
+    "name": "鲁布-亚达因型2号",
+    "notes": "Fires bouncing lasers with limited range."
+  },
+  "winchester_rifle": {
+    "name": "温切斯特步枪",
+    "notes": "A weak rifle that fires one long range shot at a time."
+  },
+  "derringer": {
+    "name": "大口径短口手枪",
+    "notes": "A small, weak handgun with only two shots per magazine."
+  }
+}

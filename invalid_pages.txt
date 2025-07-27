@@ -1,0 +1,41 @@
+共发现 37 个无效页面:
+================================================================================
+文件名                            项目名称                           关键词                           
+--------------------------------------------------------------------------------
+ac15.html                      AC-15                          ac15                          
+ak47.html                      AK-47                          ak47                          
+akey47.html                    AKEY-47                        akey47                        
+alpha_bullets.html             A级子弹                           alpha-bullets                 
+ancient_heros_bandana.html     古代英雄的头巾                        ancient-heros-bandana         
+awp.html                       狙击枪                            awp                           
+betrayers_shield.html          背弃者护罩                          betrayers-shield              
+blank_companions_ring.html     空响弹伙伴之戒                        blank-companions-ring         
+cartographers_ring.html        制图师的戒指                         cartographers-ring            
+fortunes_favor.html            财富的青睐                          fortunes-favor                
+gunslingers_ashes.html         枪手骨灰                           gunslingers-ashes             
+infuriating_note_1.html        令人气愤的纸条                        infuriating-note-1            
+infuriating_note_2.html        令人气愤的纸条                        infuriating-note-2            
+infuriating_note_3.html        令人气愤的纸条                        infuriating-note-3            
+infuriating_note_4.html        令人气愤的纸条                        infuriating-note-4            
+infuriating_note_5.html        令人气愤的纸条                        infuriating-note-5            
+infuriating_note_6.html        令人气愤的纸条                        infuriating-note-6            
+jk47.html                      JK-47                          jk47                          
+junkan.html                    垃圾                             junkan                        
+knights_gun.html               骑士之枪                           knights-gun                   
+lichs_eye_bullets.html         巫妖之眼子弹                         lichs-eye-bullets             
+master_round_1.html            胜者之弹                           master-round-1                
+master_round_2.html            胜者之弹                           master-round-2                
+master_round_3.html            胜者之弹                           master-round-3                
+master_round_4.html            胜者之弹                           master-round-4                
+master_round_5.html            胜者之弹                           master-round-5                
+old_knights_flask.html         老骑士的酒壶                         old-knights-flask             
+old_knights_helm.html          老骑士的头盔                         old-knights-helm              
+old_knights_shield.html        老骑士的盾                          old-knights-shield            
+robots_left_hand.html          罗伯特的右手                         robots-left-hand              
+robots_right_hand.html         机器人右手                          robots-right-hand             
+rubensteins_monster.html       Rubenstein's Monster           rubensteins-monster           
+rube_adyne_mk2.html            鲁布-亚达因型2号                      rube-adyne-mk2                
+shades_revolver.html           墨镜子弹的左轮手枪                      shades-revolver               
+smileys_revolver.html          笑脸左轮                           smileys-revolver              
+thompson.html                  汤普森冲锋枪                         thompson                      
+vertebraek47.html              脊椎K-47                         vertebraek47                  

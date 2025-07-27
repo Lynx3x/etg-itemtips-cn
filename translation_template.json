@@ -1,0 +1,246 @@
+{
+  "timestamp": "2025-07-26 20:46:26",
+  "total_items": 48,
+  "items": {
+    "winchester": {
+      "name": "温彻斯特霰弹枪",
+      "english_notes": "A basic shotgun that fires a spread of bullets.",
+      "chinese_notes": ""
+    },
+    "thompson": {
+      "name": "汤普森冲锋枪",
+      "english_notes": "An automatic gun that fires rapidly.",
+      "chinese_notes": ""
+    },
+    "awp": {
+      "name": "狙击枪",
+      "english_notes": "Fires bullets that can pierce through one enemy.",
+      "chinese_notes": ""
+    },
+    "ak47": {
+      "name": "AK-47",
+      "english_notes": "An automatic gun that fires rapidly.",
+      "chinese_notes": ""
+    },
+    "shades_revolver": {
+      "name": "墨镜子弹的左轮手枪",
+      "english_notes": "A six-shot revolver that increases coolness.",
+      "chinese_notes": ""
+    },
+    "vertebraek47": {
+      "name": "脊椎K-47",
+      "english_notes": "Bullets close to each other will form links between each other, which hurts enemies on touch.",
+      "chinese_notes": ""
+    },
+    "m1911": {
+      "name": "M1911",
+      "english_notes": "A basic gun slightly stronger than most starter weapons.",
+      "chinese_notes": ""
+    },
+    "void_marshal": {
+      "name": "虚空元帅",
+      "english_notes": "Fires fast-moving lasers. One of the guns wielded by the Beholster.",
+      "chinese_notes": ""
+    },
+    "smileys_revolver": {
+      "name": "笑脸左轮",
+      "english_notes": "Decreases shop prices while held.\nFire rate increased shortly after rolling.",
+      "chinese_notes": ""
+    },
+    "magnum": {
+      "name": "马格南手枪",
+      "english_notes": "A six round revolver that does good damage.",
+      "chinese_notes": ""
+    },
+    "trank_gun": {
+      "name": "M9",
+      "english_notes": "A semi-automatic gun of moderate power that, despite it's name does not tranquilize.",
+      "chinese_notes": ""
+    },
+    "machine_pistol": {
+      "name": "机枪",
+      "english_notes": "A weak but high rate of fire gun.",
+      "chinese_notes": ""
+    },
+    "regular_shotgun": {
+      "name": "常规霰弹枪",
+      "english_notes": "Fires a spread of bullets.",
+      "chinese_notes": ""
+    },
+    "makarov": {
+      "name": "马卡洛夫枪",
+      "english_notes": "A basic gun similar in power to starter weapons.",
+      "chinese_notes": ""
+    },
+    "vulcan_cannon": {
+      "name": "火神加农炮",
+      "english_notes": "A minigun with a very high rate of fire and large ammo capacity.",
+      "chinese_notes": ""
+    },
+    "robots_right_hand": {
+      "name": "机器人右手",
+      "english_notes": "Starting gun of The Robot. Does not crack secret walls.",
+      "chinese_notes": ""
+    },
+    "akey47": {
+      "name": "AKEY-47",
+      "english_notes": "Opening a locked chest or door with the gun equipped opens it for free. Alternatively, shooting a locked chest or door unlocks it.",
+      "chinese_notes": ""
+    },
+    "fortunes_favor": {
+      "name": "财富的青睐",
+      "english_notes": "While active, bullets will curve around the player.",
+      "chinese_notes": ""
+    },
+    "cartographers_ring": {
+      "name": "制图师的戒指",
+      "english_notes": "New floors have a chance to be mapped out.",
+      "chinese_notes": ""
+    },
+    "rube_adyne_mk2": {
+      "name": "鲁布-亚达因型2号",
+      "english_notes": "Fires bouncing lasers with limited range.",
+      "chinese_notes": ""
+    },
+    "winchester_rifle": {
+      "name": "温切斯特步枪",
+      "english_notes": "A weak rifle that fires one long range shot at a time.",
+      "chinese_notes": ""
+    },
+    "gunslingers_ashes": {
+      "name": "枪手骨灰",
+      "english_notes": "Fires slow homing ghosts that shoot and deal contact damage.",
+      "chinese_notes": ""
+    },
+    "old_knights_shield": {
+      "name": "老骑士的盾",
+      "english_notes": "Grants two pieces of armor.",
+      "chinese_notes": ""
+    },
+    "old_knights_helm": {
+      "name": "老骑士的头盔",
+      "english_notes": "Grants two pieces of armor.",
+      "chinese_notes": ""
+    },
+    "infuriating_note_1": {
+      "name": "令人气愤的纸条",
+      "english_notes": "Useless on its own. Has six variants, each of which reveals one of the directions necessary to make it through the maze in the Resourceful Rat's Lair.",
+      "chinese_notes": ""
+    },
+    "infuriating_note_2": {
+      "name": "令人气愤的纸条",
+      "english_notes": "Useless on its own. Has six variants, each of which reveals one of the directions necessary to make it through the maze in the Resourceful Rat's Lair.",
+      "chinese_notes": ""
+    },
+    "infuriating_note_3": {
+      "name": "令人气愤的纸条",
+      "english_notes": "Useless on its own. Has six variants, each of which reveals one of the directions necessary to make it through the maze in the Resourceful Rat's Lair.",
+      "chinese_notes": ""
+    },
+    "infuriating_note_4": {
+      "name": "令人气愤的纸条",
+      "english_notes": "Useless on its own. Has six variants, each of which reveals one of the directions necessary to make it through the maze in the Resourceful Rat's Lair.",
+      "chinese_notes": ""
+    },
+    "infuriating_note_5": {
+      "name": "令人气愤的纸条",
+      "english_notes": "Useless on its own. Has six variants, each of which reveals one of the directions necessary to make it through the maze in the Resourceful Rat's Lair.",
+      "chinese_notes": ""
+    },
+    "infuriating_note_6": {
+      "name": "令人气愤的纸条",
+      "english_notes": "Useless on its own. Has six variants, each of which reveals one of the directions necessary to make it through the maze in the Resourceful Rat's Lair.",
+      "chinese_notes": ""
+    },
+    "ancient_heros_bandana": {
+      "name": "古代英雄的头巾",
+      "english_notes": "Quadruples maximum ammo.",
+      "chinese_notes": ""
+    },
+    "old_knights_flask": {
+      "name": "老骑士的酒壶",
+      "english_notes": "Heals the player for one heart upon use. Gains 2 charges each floor.",
+      "chinese_notes": ""
+    },
+    "alpha_bullets": {
+      "name": "A级子弹",
+      "english_notes": "The first shot of a weapon's magazine will deal 80% more damage.",
+      "chinese_notes": ""
+    },
+    "derringer": {
+      "name": "大口径短口手枪",
+      "english_notes": "A small, weak handgun with only two shots per magazine.",
+      "chinese_notes": ""
+    },
+    "betrayers_shield": {
+      "name": "背弃者护罩",
+      "english_notes": "Upon reloading, leaves a protective shield on the ground. Players in that area will be protected until the shield has absorbed a number of bullets.",
+      "chinese_notes": ""
+    },
+    "blank_companions_ring": {
+      "name": "空响弹伙伴之戒",
+      "english_notes": "Activates a blank each time an active item is used.",
+      "chinese_notes": ""
+    },
+    "master_round_5": {
+      "name": "胜者之弹",
+      "english_notes": "Grants a heart container.",
+      "chinese_notes": ""
+    },
+    "master_round_3": {
+      "name": "胜者之弹",
+      "english_notes": "Grants a heart container.",
+      "chinese_notes": ""
+    },
+    "master_round_1": {
+      "name": "胜者之弹",
+      "english_notes": "Grants a heart container.",
+      "chinese_notes": ""
+    },
+    "master_round_4": {
+      "name": "胜者之弹",
+      "english_notes": "Grants a heart container.",
+      "chinese_notes": ""
+    },
+    "master_round_2": {
+      "name": "胜者之弹",
+      "english_notes": "Grants a heart container.",
+      "chinese_notes": ""
+    },
+    "jk47": {
+      "name": "JK-47",
+      "english_notes": "Reloading inflicts fear on nearby enemies.",
+      "chinese_notes": ""
+    },
+    "ac15": {
+      "name": "AC-15",
+      "english_notes": "Becomes more powerful if the player has armor.",
+      "chinese_notes": ""
+    },
+    "knights_gun": {
+      "name": "骑士之枪",
+      "english_notes": "Fires five bullets in an arrow shape. Gains some pickups when reloading an empty clip.",
+      "chinese_notes": ""
+    },
+    "robots_left_hand": {
+      "name": "罗伯特的右手",
+      "english_notes": "Rapidly fires blue lasers.",
+      "chinese_notes": ""
+    },
+    "junkan": {
+      "name": "垃圾",
+      "english_notes": "Summons Ser Junkan, who follows the player, attacks enemies, and becomes stronger for each Junk picked up.",
+      "chinese_notes": ""
+    },
+    "rubensteins_monster": {
+      "name": "Rubenstein's Monster",
+      "english_notes": "Created when both the RUBE-ADYNE Prototype and the RUBE-ADYNE MK.II are acquired. It rapidly fires pink lasers that can bounce once.",
+      "chinese_notes": ""
+    },
+    "lichs_eye_bullets": {
+      "name": "巫妖之眼子弹",
+      "english_notes": "Makes all guns act as if they have all their synergies.",
+      "chinese_notes": ""
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "items": {
+    "ac15": {
+      "name": "AC-15",
+      "notes": "Becomes more powerful if the player has armor."
+    },
+    "ak47": {
+      "name": "AK-47",
+      "notes": "An automatic gun that fires rapidly."
+    },
+    "akey47": {
+      "name": "AKEY-47",
+      "notes": "Opening a locked chest or door with the gun equipped opens it for free. Alternatively, shooting a locked chest or door unlocks it."
+    },
+    "alpha_bullets": {
+      "name": "A级子弹",
+      "notes": "The first shot of a weapon's magazine will deal 80% more damage."
+    },
+    "ancient_heros_bandana": {
+      "name": "古代英雄的头巾",
+      "notes": "Quadruples maximum ammo."
+    },
+    "awp": {
+      "name": "狙击枪",
+      "notes": "Fires bullets that can pierce through one enemy."
+    },
+    "betrayers_shield": {
+      "name": "背弃者护罩",
+      "notes": "Upon reloading, leaves a protective shield on the ground. Players in that area will be protected until the shield has absorbed a number of bullets."
+    },
+    "blank_companions_ring": {
+      "name": "空响弹伙伴之戒",
+      "notes": "Activates a blank each time an active item is used."
+    },
+    "cartographers_ring": {
+      "name": "制图师的戒指",
+      "notes": "New floors have a chance to be mapped out."
+    },
+    "fortunes_favor": {
+      "name": "财富的青睐",
+      "notes": "While active, bullets will curve around the player."
+    },
+    "gunslingers_ashes": {
+      "name": "枪手骨灰",
+      "notes": "Fires slow homing ghosts that shoot and deal contact damage."
+    },
+    "infuriating_note_1": {
+      "name": "令人气愤的纸条",
+      "notes": "Useless on its own. Has six variants, each of which reveals one of the directions necessary to make it through the maze in the Resourceful Rat's Lair."
+    },
+    "infuriating_note_2": {
+      "name": "令人气愤的纸条",
+      "notes": "Useless on its own. Has six variants, each of which reveals one of the directions necessary to make it through the maze in the Resourceful Rat's Lair."
+    },
+    "infuriating_note_3": {
+      "name": "令人气愤的纸条",
+      "notes": "Useless on its own. Has six variants, each of which reveals one of the directions necessary to make it through the maze in the Resourceful Rat's Lair."
+    },
+    "infuriating_note_4": {
+      "name": "令人气愤的纸条",
+      "notes": "Useless on its own. Has six variants, each of which reveals one of the directions necessary to make it through the maze in the Resourceful Rat's Lair."
+    },
+    "infuriating_note_5": {
+      "name": "令人气愤的纸条",
+      "notes": "Useless on its own. Has six variants, each of which reveals one of the directions necessary to make it through the maze in the Resourceful Rat's Lair."
+    },
+    "infuriating_note_6": {
+      "name": "令人气愤的纸条",
+      "notes": "Useless on its own. Has six variants, each of which reveals one of the directions necessary to make it through the maze in the Resourceful Rat's Lair."
+    },
+    "jk47": {
+      "name": "JK-47",
+      "notes": "Reloading inflicts fear on nearby enemies."
+    },
+    "junkan": {
+      "name": "垃圾",
+      "notes": "Summons Ser Junkan, who follows the player, attacks enemies, and becomes stronger for each Junk picked up."
+    },
+    "knights_gun": {
+      "name": "骑士之枪",
+      "notes": "Fires five bullets in an arrow shape. Gains some pickups when reloading an empty clip."
+    },
+    "lichs_eye_bullets": {
+      "name": "巫妖之眼子弹",
+      "notes": "Makes all guns act as if they have all their synergies."
+    },
+    "master_round_1": {
+      "name": "胜者之弹",
+      "notes": "Grants a heart container."
+    },
+    "master_round_2": {
+      "name": "胜者之弹",
+      "notes": "Grants a heart container."
+    },
+    "master_round_3": {
+      "name": "胜者之弹",
+      "notes": "Grants a heart container."
+    },
+    "master_round_4": {
+      "name": "胜者之弹",
+      "notes": "Grants a heart container."
+    },
+    "master_round_5": {
+      "name": "胜者之弹",
+      "notes": "Grants a heart container."
+    },
+    "old_knights_flask": {
+      "name": "老骑士的酒壶",
+      "notes": "Heals the player for one heart upon use. Gains 2 charges each floor."
+    },
+    "old_knights_helm": {
+      "name": "老骑士的头盔",
+      "notes": "Grants two pieces of armor."
+    },
+    "old_knights_shield": {
+      "name": "老骑士的盾",
+      "notes": "Grants two pieces of armor."
+    },
+    "robots_left_hand": {
+      "name": "罗伯特的右手",
+      "notes": "Rapidly fires blue lasers."
+    },
+    "robots_right_hand": {
+      "name": "机器人右手",
+      "notes": "Starting gun of The Robot. Does not crack secret walls."
+    },
+    "rubensteins_monster": {
+      "name": "Rubenstein's Monster",
+      "notes": "Created when both the RUBE-ADYNE Prototype and the RUBE-ADYNE MK.II are acquired. It rapidly fires pink lasers that can bounce once."
+    },
+    "rube_adyne_mk2": {
+      "name": "鲁布-亚达因型2号",
+      "notes": "Fires bouncing lasers with limited range."
+    },
+    "shades_revolver": {
+      "name": "墨镜子弹的左轮手枪",
+      "notes": "A six-shot revolver that increases coolness."
+    },
+    "smileys_revolver": {
+      "name": "笑脸左轮",
+      "notes": "Decreases shop prices while held.\nFire rate increased shortly after rolling."
+    },
+    "thompson": {
+      "name": "汤普森冲锋枪",
+      "notes": "An automatic gun that fires rapidly."
+    },
+    "vertebraek47": {
+      "name": "脊椎K-47",
+      "notes": "Bullets close to each other will form links between each other, which hurts enemies on touch."
+    }
+  }
+}

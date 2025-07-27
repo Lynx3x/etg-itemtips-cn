@@ -1,0 +1,12 @@
+# 未匹配的联动键
+klobbe: （无组合提示） => #（无组合提示）
+cog_of_battle: （无组合提示） => #（无组合提示）
+gunknight_helmet: 枪骑士 => #枪骑士
+gunknight_greaves: 枪骑士 => #枪骑士
+gunknight_gauntlet: 枪骑士 => #枪骑士
+gunknight_armor: 枪骑士 => #枪骑士
+seven_leaf_clover: Breakfast Club _ => #BREAKFAST_CLUB__
+ticket: Secret Twin _ => #SECRET_TWIN__
+blasphemy: 枪骑士 _ => #枪骑士__
+badge: 遵纪守法 _ => #遵纪守法__
+rad_gun: 枪骑士 _ => #枪骑士__
