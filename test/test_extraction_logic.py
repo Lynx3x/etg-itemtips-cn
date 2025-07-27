@@ -139,7 +139,7 @@ def test_with_url(item_key, item_name_cn=None):
         traceback.print_exc()
         return None
 
-key = 'clone'
+# key = 'clone'
 # key = 'gunner'
 # key = 'grasschopper'
 # key = 'magic_lamp'
@@ -148,6 +148,7 @@ key = 'clone'
 # key = 'rube_adyne_mk2'
 # key = 'seven_leaf_clover'
 # key = 'mustache'
+key = 'master_round_1'
 
 def main():
     # 测试直接使用Selenium

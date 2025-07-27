@@ -88,7 +88,7 @@ def extract_item_description(html_content, item_name_en, item_name_cn=None):
             if text:
                 all_content += text
 
-        # 处理img或a>img
+        # 处理img、a>img、br等标签
         elif isinstance(current, Tag):
             # 直接是img
             if current.name == 'img':
@@ -108,6 +108,9 @@ def extract_item_description(html_content, item_name_en, item_name_cn=None):
                 link_text = current.text.strip()
                 if link_text:
                     all_content += link_text
+            # 处理换行标签
+            elif current.name == 'br':
+                all_content += "\n"
             # 其他常规内容
             elif current.name == 'p':
                 content = process_content(current)
@@ -119,8 +122,8 @@ def extract_item_description(html_content, item_name_en, item_name_cn=None):
                     if li_text and len(li_text.strip()) > 0:
                         all_content += ("\n" if all_content else "") + "- " + li_text
             else:
-                # 处理容器内的p/ul/ol
-                for element in current.find_all(['p', 'ul', 'ol']):
+                # 处理容器内的p/ul/ol/br
+                for element in current.find_all(['p', 'ul', 'ol', 'br']):
                     if element.name == 'p':
                         content = process_content(element)
                         if content and len(content.strip()) > 0:
@@ -130,6 +133,8 @@ def extract_item_description(html_content, item_name_en, item_name_cn=None):
                             li_text = process_content(li)
                             if li_text and len(li_text.strip()) > 0:
                                 all_content += ("\n" if all_content else "") + "- " + li_text
+                    elif element.name == 'br':
+                        all_content += "\n"
 
         current = current.next_sibling
     
