@@ -2572,7 +2572,7 @@
       "notes": "隐藏房入口会出现一只洞悉怪提示位置"
     },
     "#FOSSILPHOENIX": {
-      "name": "",
+      "name": "神秘生物",
       "notes": "凤凰在地上射出一排火\n两把枪都带穿透效果，并增加伤害\n玩家免疫火"
     },
     "#SAMUSPLASMA": {
@@ -3476,7 +3476,7 @@
       "notes": "冰冻射线可以更快冰冻敌人"
     },
     "#REPLETE": {
-      "name": "",
+      "name": "Replate",
       "notes": "小写字母r会拼出“THANKS FOR PLAYING”。"
     },
     "#KILLINGJOKE": {
@@ -3496,7 +3496,7 @@
       "notes": "枪之冠发射更多的子弹。\n手持枪之冠时，自动魅惑所有子弹怪 资深子弹怪。"
     },
     "#SOULAIR": {
-      "name": "",
+      "name": "赞美太阳",
       "notes": "阳炎标枪打中敌人时，会生成一个圆形区域，燃烧区域内的敌人。"
     },
     "#ORRERY": {

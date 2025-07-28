@@ -578,7 +578,7 @@ def generate_tip_file(items_data, sample_data, output_file, key_to_wikikey):
     for key in sample_data['synergies'].keys():
         if key in synergies_data:
             tip_content["synergies"][key] = {
-                "name": sample_data["synergies"][key].get("name", ""),
+                "name": sample_data["synergies"][key].get("name") or synergies_data[key].get("name", ""),
                 "notes": synergies_data[key]["notes"]
             }
         else:
@@ -694,7 +694,7 @@ def main():
         # 给没有名字的联动效果手动补一下名字
         items_data["synergies"]["#FOSSILPHOENIX"]["name"] = "神秘生物"
         items_data["synergies"]["#REPLETE"]["name"] = "Replate"
-        items_data["synergies"]["#SOULAIR"]["name"] = "\赞美太阳/"
+        items_data["synergies"]["#SOULAIR"]["name"] = "赞美太阳"
 
         # 修一些明明一样的但是多了一份的联动效果
         items_data["synergies"]["#HOMINGBOMBS2"] = items_data["synergies"]["#HOMINGBOMBS3"]
