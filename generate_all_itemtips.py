@@ -548,7 +548,7 @@ def generate_tip_file(items_data, sample_data, output_file, key_to_wikikey):
         "metadata": {
             "name": "挺进地牢物品提示 - 中文",
             "url": "https://etg-xd.wikidot.com",
-            "version": "1.0.0"
+            "version": "1.0.1"
         },
         "items": {},
         "synergies": {}
