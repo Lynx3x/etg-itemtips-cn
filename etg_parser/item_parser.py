@@ -88,7 +88,7 @@ def extract_item_description(html_content, item_name_en, item_name_cn=None):
             if text:
                 all_content += text
 
-        # 处理img、a>img、br等标签
+        # 处理img、a>img、br、tt等标签
         elif isinstance(current, Tag):
             # 直接是img
             if current.name == 'img':
@@ -108,6 +108,11 @@ def extract_item_description(html_content, item_name_en, item_name_cn=None):
                 link_text = current.text.strip()
                 if link_text:
                     all_content += link_text
+            # 处理tt标签
+            elif current.name == 'tt':
+                tt_text = current.text.strip()
+                if tt_text:
+                    all_content += f"`{tt_text}`"
             # 处理换行标签
             elif current.name == 'br':
                 all_content += "\n"
@@ -122,8 +127,8 @@ def extract_item_description(html_content, item_name_en, item_name_cn=None):
                     if li_text and len(li_text.strip()) > 0:
                         all_content += ("\n" if all_content else "") + "- " + li_text
             else:
-                # 处理容器内的p/ul/ol/br
-                for element in current.find_all(['p', 'ul', 'ol', 'br']):
+                # 处理容器内的p/ul/ol/br/tt
+                for element in current.find_all(['p', 'ul', 'ol', 'br', 'tt']):
                     if element.name == 'p':
                         content = process_content(element)
                         if content and len(content.strip()) > 0:
@@ -135,9 +140,12 @@ def extract_item_description(html_content, item_name_en, item_name_cn=None):
                                 all_content += ("\n" if all_content else "") + "- " + li_text
                     elif element.name == 'br':
                         all_content += "\n"
+                    elif element.name == 'tt':
+                        tt_text = element.text.strip()
+                        if tt_text:
+                            all_content += f"`{tt_text}`"
 
         current = current.next_sibling
-    
     if all_content:
         print(f"找到物品 '{item_name_en}' 的描述内容")
         return all_content
